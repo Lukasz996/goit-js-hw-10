@@ -1,0 +1,15 @@
+body {
+  margin-left: 50px;
+  background-color: rgb(233, 233, 233);
+}
+
+.breed-select {
+  cursor: pointer;
+  background-color: #ccc;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 5px;
+  display: block;
+  font-size: 14px;
+  margin-bottom: 50px;
+  padding: 20px;
+}
